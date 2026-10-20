@@ -14,7 +14,7 @@ Užduočių variantai faile variantai.zip. Spręsti užduotį esančią faile va
 
 Užduoties failo struktūra:
 1.  
-e
+e  
 3.  
 (e, n)  
 c  
